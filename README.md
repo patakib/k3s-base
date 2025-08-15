@@ -1,4 +1,4 @@
-# k3s-base
+# k3s-basee
 Basic infos for k3s setup
 
 ## Installation
